@@ -1,6 +1,6 @@
 {
-  "name": "weather_cli",
-  "version": "1.0.0",
+  "name": "@kakstifler/weather_cli",
+  "version": "1.0.1",
   "description": "CLI for getting weather",
   "main": "weather.js",
   "bin": {
@@ -15,7 +15,8 @@
   "license": "ISC",
   "keywords": [
     "cli",
-    "weather"
+    "weather",
+    "weather-app"
   ],
   "repository": {
     "type": "git",
