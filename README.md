@@ -1,4 +1,4 @@
-# Weather-cli v1.0.1
+# Weather-cli v1.0.2
 
 ## Installation
 
